@@ -1,0 +1,5 @@
+Flask==0.12.2
+pytest-flask==0.10.0
+pytest-factoryboy==2.0.1
+marshmallow==2.15.0
+flask-sqlalchemy==2.3.2
